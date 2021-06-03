@@ -17,5 +17,10 @@ Here are some ideas to get you started:
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=fahrurozi.fahrurozi) -->
 <!-- [![Github](https://img.shields.io/github/followers/fahrurozi?label=Follow&style=social)](https://github.com/fahrurozi) -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahrurozi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahrurozi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight) -->
+
+<summary>
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=fahrurozi)](https://github.com/fahrurozi)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrurozi&theme=buefy&layout=compact)  
+</summary>
