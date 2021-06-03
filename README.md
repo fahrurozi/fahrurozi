@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.laobi.icu/badge?page_id=fahrurozi.fahrurozi)
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=fahrurozi.fahrurozi) -->
+
+
+[![Github](https://img.shields.io/github/followers/fahrurozi?label=Follow&style=social)](https://github.com/fahrurozi)
