@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <summary>
   
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=fahrurozi)](https://github.com/fahrurozi)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrurozi&theme=buefy&layout=compact)  
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=fahrurozi)](https://github.com/fahrurozi&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrurozi&theme=buefy&layout=compact&theme=tokyonight)  
   
 </summary>
