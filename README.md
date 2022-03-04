@@ -26,10 +26,5 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahrurozi&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrurozi&theme=tokyonight&layout=compact)  
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahrurozi&show_icons=true&theme=radical)
- <a href="https://github.com/fahrurozi/fahrurozi">
-  
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahrurozi&repo=fahrurozi" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </summary>
