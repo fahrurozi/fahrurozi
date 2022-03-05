@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 <!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=fahrurozi)](https://github.com/fahrurozi&theme=tokyonight) -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahrurozi&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrurozi&theme=tokyonight&layout=compact)  
+  ![](https://komarev.com/ghpvc/?username=fahrurozi)
 </summary>
