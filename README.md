@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 [![Rozi' Activity Graph](https://activity-graph.herokuapp.com/graph?username=fahrurozi&custom_title=Rozi's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](#)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrurozi&theme=tokyonight&layout=compact)]
 
 
 
