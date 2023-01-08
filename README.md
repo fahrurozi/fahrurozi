@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight) -->
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ep4hyq6ejmdfwkkitx56n6i&cover_image=true&theme=default&show_offline=true&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=21ep4hyq6ejmdfwkkitx56n6i&redirect=true)
+
 <h1 align="center">
   <b>Fahru Rozi</b>
 </h1>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ep4hyq6ejmdfwkkitx56n6i&cover_image=true&theme=default&show_offline=true&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=21ep4hyq6ejmdfwkkitx56n6i&redirect=true)
 <br/>
 
 <p align="center">
