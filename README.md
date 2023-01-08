@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ep4hyq6ejmdfwkkitx56n6i&cover_image=true&theme=default&show_offline=true&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=21ep4hyq6ejmdfwkkitx56n6i&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ep4hyq6ejmdfwkkitx56n6i&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=21ep4hyq6ejmdfwkkitx56n6i&redirect=true)
 
 
 
