@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </h1>
 <br/>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ep4hyq6ejmdfwkkitx56n6i&cover_image=true&theme=default&show_offline=true&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=21ep4hyq6ejmdfwkkitx56n6i&redirect=true)
-<br />
+<br/>
 <p align="center">
   <a href="#">
     <img width="30.5%" src="https://github-contribution-stats.vercel.app/api/?username=fahrurozi" />
@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 </p>
 
 [![Rozi' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fahrurozi&custom_title=Rozi's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](#)
-
-
 <p align="center">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrurozi&theme=tokyonight&layout=compact" />
