@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋
 
 <!--
 **fahrurozi/fahrurozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">
+<!-- <h1 align="center">
   <b>Fahru Rozi</b>
-</h1>
+</h1> -->
+
 
 <br/>
 
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+
 [![Rozi' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fahrurozi&custom_title=Rozi's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](#)
 
 <p align="center">
@@ -43,6 +45,18 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrurozi&theme=tokyonight&layout=compact" />
   </a>
 </p>
+
+
+**Languanges and Tools:**
+<br>
+<img height="25px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
+<img height="25px" src="https://codeigniter.com/userguide3/_static/ci-icon.ico" />
+<img height="25px" src="https://www.yiiframework.com/favico/apple-touch-icon.png" />
+<img height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img height="25px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
+<img height="25px" src="https://code.visualstudio.com/favicon.ico" />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ep4hyq6ejmdfwkkitx56n6i&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=21ep4hyq6ejmdfwkkitx56n6i&redirect=true)
 
