@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 
 **Languanges and Tools:**
 <br>
-
 <img height="25px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
 <img height="25px" src="https://codeigniter.com/userguide3/_static/ci-icon.ico" />
 <img height="25px" src="https://spring.io/icons/icon-96x96.png?v=96334d577af708644f6f0495dd1c7bc8" />
