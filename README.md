@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 <img height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img height="25px" src="https://expressjs.com/images/favicon.png" />
 <img height="25px" src="https://angularjs.org/favicon.ico" />
-<img height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img height="25px" src="https://www.mongodb.com/assets/images/global/favicon.ico" />
 <img height="25px" src="https://www.postgresql.org/favicon.ico" />
